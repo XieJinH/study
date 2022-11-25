@@ -31,9 +31,31 @@
         .father1:hover .child1 {
             color: green;
         }
+
+        .nth {
+            height: 20px;
+            width: 1000px;
+            border: 1px solid red;
+        }
+
+        .not-nth {
+            height: 20px;
+            width: 1000px;
+            border: 1px solid red;
+        }
+
+        /* nth-child 获取父元素下相同类的元素，并组合成一个数组，用 ( an + b ) 的形式进行获取 */
+        .nth:nth-child(n + 2) {
+            border-top: none;
+        }
+        .nth:nth-child(2n + 1) {
+            background-color: #cccccc;
+        }
+
     </style>
 </head>
 <body>
+
 <div class="div">鼠标悬停</div>
 
 <div>
@@ -47,5 +69,16 @@
     <div class="child1">子元素</div>
 </div>
 <div class="father2">文本2</div>
+
+<div class="nth-list">
+    <div class="nth">This is nth-child div</div>
+    <div class="nth">This is nth-child div</div>
+    <div class="nth">This is nth-child div</div>
+    <div class="nth">This is nth-child div</div>
+    <p></p>
+    <div class="not-nth">This is not a nth-child div</div>
+    <div class="not-nth">This is not a nth-child div</div>
+</div>
+
 </body>
 </html>
