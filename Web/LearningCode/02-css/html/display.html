@@ -6,36 +6,27 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+
     <style>
-        div {
-            width: 100px;
+        .none {
             height: 100px;
+            width: 100px;
             border: 1px solid black;
             box-sizing: border-box;
+            display: none;
         }
 
-        .box1 {
-            float: left;
-        }
-
-        .box2 {
-            float: right;
-        }
-
-        .box3 {
-            float: left;
+        .inline-block {
+            /* 转换为行内元素，用内容撑大容器 */
+            border: 1px solid black;
+            box-sizing: border-box;
+            display: inline-block;
         }
     </style>
 </head>
 <body>
-<!-- 脱离文档流 -->
-<div class="box1">box1</div>
-<div class="box2">box2</div>
-<div class="box3">box3</div>
+<div class="none">none</div>
 
-<!-- 文档流 -->
-<div>box</div>
-<div>box</div>
-<div>box</div>
+<div class="inline-block">inline-block</div>
 </body>
 </html>
