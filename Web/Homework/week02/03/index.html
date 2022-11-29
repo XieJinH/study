@@ -55,8 +55,14 @@
         password input: 456
      -->
      <script>
+         const username = document.getElementById('user');
+         const password = document.getElementById('psw');
+         const btn = document.getElementById('btn');
+         const text = document.getElementById('text');
 
-
+         btn.onclick = function () {
+             text.innerText = 'user input: ' + username.value + '\n' + 'password input: ' + password.value;
+         }
      </script>
     
     
