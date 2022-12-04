@@ -10,5 +10,6 @@ add_executable(untitled
         #        LongestIncreasingSubsequence.cpp
         #        LinkedListItem.cpp
         #        LinkedListMerge.cpp
-#        LinkedListsIntersection.cpp
-        CaesarCode.cpp)
+        #        LinkedListsIntersection.cpp
+        #        CaesarCode.cpp
+        JudgeStack.cpp)
