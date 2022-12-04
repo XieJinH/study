@@ -3,4 +3,12 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled TopologicalSort.cpp)
+add_executable(untitled
+        #        TopologicalSort.cpp
+        #        ArrayReverse.cpp
+        #        ArrayOutput.cpp
+        #        LongestIncreasingSubsequence.cpp
+        #        LinkedListItem.cpp
+        #        LinkedListMerge.cpp
+#        LinkedListsIntersection.cpp
+        CaesarCode.cpp)
