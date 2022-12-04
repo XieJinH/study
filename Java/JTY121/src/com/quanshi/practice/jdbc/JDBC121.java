@@ -10,7 +10,7 @@ public class JDBC121 {
         ResultSet resultSet = null;
 
         try {
-            Class.  forName("com.mysql.cj.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver");
 
             connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/jty121?userSSL=false&serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8", "root", "root");
 
