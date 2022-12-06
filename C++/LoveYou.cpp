@@ -131,7 +131,7 @@ int main(int argc, char *argv[]) {
     for (n = 0; n++ < 365;) {
         showSnow();
     }
-    gotoxy(0, 100);
+//    gotoxy(0, 100);
     getchar();
 
     return 0;
