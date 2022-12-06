@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "untitled",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,8 +40,15 @@
 			[
 				{
 					"directoryIndex" : 0,
+					"id" : "LoveYou::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoveYou-Debug-695619ad8e810f87de68.json",
+					"name" : "LoveYou",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-651ea12b9139eb36a487.json",
+					"jsonFile" : "target-untitled-Debug-364f476ad7af0e4374a9.json",
 					"name" : "untitled",
 					"projectIndex" : 0
 				}

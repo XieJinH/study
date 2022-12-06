@@ -1,15 +1,18 @@
 # ninja log v5
-1	178	6918949952590885	build.ninja	e6bca49d9aa61cda
-9	475	6917329025037211	CMakeFiles/untitled.dir/Dfs.cpp.obj	9d88880bdb694b53
+1	176	6920351965884557	build.ninja	e6bca49d9aa61cda
 9	497	6918738536947196	CMakeFiles/untitled.dir/ArrayReverse.cpp.obj	b83e4f8995ea82fe
-310	421	6918941647694322	untitled.exe	b52bb28401bcf1c6
+2	94	6920310687445171	untitled.exe	3db03240458cbc2b
+9	475	6917329025037211	CMakeFiles/untitled.dir/Dfs.cpp.obj	9d88880bdb694b53
 0	289	6917403232167064	CMakeFiles/untitled.dir/Tree'sOutput.cpp.obj	e7d629680890af0f
 0	282	6917329262349403	CMakeFiles/untitled.dir/Tree.cpp.obj	8b1c32934cbfda9a
 3	1359	6918727222593405	CMakeFiles/untitled.dir/TopologicalSort.cpp.obj	62f87e3f0786738f
 3	369	6918743702642956	CMakeFiles/untitled.dir/ArrayOutput.cpp.obj	43c1672d33ef477e
-2	364	6918934404257455	CMakeFiles/untitled.dir/CaesarCode.cpp.obj	853b60fe383e0447
 3	389	6918785875566370	CMakeFiles/untitled.dir/LongestIncreasingSubsequence.cpp.obj	e1da515b53088ab3
+2	364	6918934404257455	CMakeFiles/untitled.dir/CaesarCode.cpp.obj	853b60fe383e0447
 4	621	6918857853023191	CMakeFiles/untitled.dir/LinkedListItem.cpp.obj	5fcb0500e7cc0d56
 3	385	6918858405041283	CMakeFiles/untitled.dir/LinkedListMerge.cpp.obj	d58ed5e4f19336d5
 3	410	6918880825126284	CMakeFiles/untitled.dir/LinkedListsIntersection.cpp.obj	ecdbf567c2f97fc5
-3	310	6918941646623968	CMakeFiles/untitled.dir/JudgeStack.cpp.obj	981472e1fb004df
+7	417	6920310584065428	CMakeFiles/untitled.dir/JudgeStack.cpp.obj	981472e1fb004df
+2	1288	6920310592783374	CMakeFiles/untitled.dir/LoveYou.cpp.obj	ccba1779fa919fa0
+3	1593	6920355984742666	CMakeFiles/untitled.dir/LoveYou.cpp.obj	ccba1779fa919fa0
+1593	1777	6920355986552608	untitled.exe	3db03240458cbc2b

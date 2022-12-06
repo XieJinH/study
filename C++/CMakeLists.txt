@@ -12,4 +12,7 @@ add_executable(untitled
         #        LinkedListMerge.cpp
         #        LinkedListsIntersection.cpp
         #        CaesarCode.cpp
-        JudgeStack.cpp)
+        #        JudgeStack.cpp
+        LoveYou.cpp)
+
+add_executable(LoveYou LoveYou.cpp)
