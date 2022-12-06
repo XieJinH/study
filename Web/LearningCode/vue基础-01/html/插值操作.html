@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="./../utils/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <!-- Mustache 插值语法 -->
+    <div class="title">{{title}}</div>
+    <!-- 三元表达式、判断表达式等基础运算 -->
+    <div class="title">{{1 - 1}}</div>
+    <div class="title">{{isTrue ? "真的" : "假的"}}</div>
+</div>
+
+<script>
+    const app = new Vue({
+        el: "#app",
+        // data: {
+        //     title: "这是个 vue 应用"
+        // }
+
+        // 常用
+        data() {
+            return {
+                title: "这是个 vue 应用",
+                isTrue: false
+            }
+        }
+    })
+
+    // 利用实例更改数据，观察数据响应式变化
+    console.log(app);
+
+    setTimeout(() => {
+        app.title = "数据被我黑了吧"
+    }, 3000)
+</script>
+</body>
+</html>
