@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="190c406e-1c15-400c-82cd-63e0345c453b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C++/BubbleSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/InsertSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/MergeSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/QuickSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/untitled.dir/BubbleSort.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/untitled.dir/InsertSort.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/untitled.dir/MergeSort.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/untitled.dir/QuickSort.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3f163d2509dccfb24fc0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ea831283b5a959315c71.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-06T13-06-36-0696.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.cmake/api/v1/reply/target-LoveYou-Debug-695619ad8e810f87de68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.cmake/api/v1/reply/target-untitled-Debug-364f476ad7af0e4374a9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/cmake-build-debug/untitled.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/cmake-build-debug/untitled.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JTY121/src/com/quanshi/Test/zzztest/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="C:\Users\yorky\Desktop\STUDY\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ix1uRLnPmoLKoEUkGPvpbX7n90" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/yorky/Desktop/STUDY/Java/JTY121",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="190c406e-1c15-400c-82cd-63e0345c453b" name="Changes" comment="" />
+      <created>1671108642607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671108642607</updated>
+      <workItem from="1671108643895" duration="1250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
