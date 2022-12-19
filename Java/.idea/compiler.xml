@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testspringboot" />
+        <module name="ruoyi-system" />
+        <module name="java-learning" />
+        <module name="ssm02" />
+        <module name="xiaomi-shopping" />
+        <module name="ruoyi-generator" />
+        <module name="springboot01" />
+        <module name="ruoyi-framework" />
+        <module name="ssm15_springmvc" />
+        <module name="maven02" />
+        <module name="maven01" />
+        <module name="ruoyi-common" />
+        <module name="ssm06" />
+        <module name="ssm03" />
+        <module name="ssm04" />
+        <module name="ruoyi-quartz" />
+        <module name="springbootswagger" />
+        <module name="ssm07" />
+        <module name="ssm08" />
+        <module name="ruoyi-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-learning" target="18" />
+      <module name="maven01" target="1.5" />
+      <module name="maven02" target="1.5" />
+      <module name="ruoyi" target="1.5" />
+      <module name="ruoyi-admin" target="1.5" />
+      <module name="ruoyi-common" target="1.5" />
+      <module name="ruoyi-framework" target="1.5" />
+      <module name="ruoyi-generator" target="1.5" />
+      <module name="ruoyi-quartz" target="1.5" />
+      <module name="ruoyi-system" target="1.5" />
+      <module name="springboot01" target="1.8" />
+      <module name="springbootswagger" target="1.8" />
+      <module name="ssm02" target="1.5" />
+      <module name="ssm03" target="1.5" />
+      <module name="ssm04" target="1.5" />
+      <module name="ssm06" target="1.5" />
+      <module name="ssm07" target="1.5" />
+      <module name="ssm08" target="1.5" />
+      <module name="ssm15_springmvc" target="1.8" />
+      <module name="testspringboot" target="1.8" />
+      <module name="xiaomi-shopping" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

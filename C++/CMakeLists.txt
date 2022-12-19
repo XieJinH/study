@@ -13,6 +13,10 @@ add_executable(untitled
         #        LinkedListsIntersection.cpp
         #        CaesarCode.cpp
         #        JudgeStack.cpp
-        LoveYou.cpp)
-
-add_executable(LoveYou LoveYou.cpp)
+        #        LoveYou.cpp
+        #        BubbleSort.cpp
+        #        InsertSort.cpp
+        #        QuickSort.cpp
+        #        MergeSort.cpp
+        #        ChainCardinalitySort.cpp
+        ScoreSort.cpp)

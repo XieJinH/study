@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/maven01" />
+    <file type="web" url="file://$PROJECT_DIR$/maven02" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm02" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm03" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm04" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm05" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm06" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm07" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm08" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ssm02/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm03/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm04/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm05/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm06/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm07/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm08/pom.xml" />
+        <option value="$PROJECT_DIR$/maven01/pom.xml" />
+        <option value="$PROJECT_DIR$/maven02/pom.xml" />
+        <option value="$PROJECT_DIR$/RuoYi-Vue/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot01/pom.xml" />
+        <option value="$PROJECT_DIR$/java-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/testspringboot/pom.xml" />
+        <option value="$PROJECT_DIR$/xiaomi-shopping/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootswagger/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

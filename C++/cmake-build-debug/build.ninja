@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/yorky/Desktop/STUDY/C++/cmake-build-debug/
 
 build cmake_object_order_depends_target_untitled: phony || CMakeFiles/untitled.dir
 
-build CMakeFiles/untitled.dir/LoveYou.cpp.obj: CXX_COMPILER__untitled_Debug C$:/Users/yorky/Desktop/STUDY/C++/LoveYou.cpp || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles\untitled.dir\LoveYou.cpp.obj.d
+build CMakeFiles/untitled.dir/ScoreSort.cpp.obj: CXX_COMPILER__untitled_Debug C$:/Users/yorky/Desktop/STUDY/C++/ScoreSort.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\ScoreSort.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir
@@ -63,7 +63,7 @@ build CMakeFiles/untitled.dir/LoveYou.cpp.obj: CXX_COMPILER__untitled_Debug C$:/
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/LoveYou.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/ScoreSort.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir
@@ -72,39 +72,6 @@ build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.di
   TARGET_FILE = untitled.exe
   TARGET_IMPLIB = libuntitled.dll.a
   TARGET_PDB = untitled.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target LoveYou
-
-
-#############################################
-# Order-only phony target for LoveYou
-
-build cmake_object_order_depends_target_LoveYou: phony || CMakeFiles/LoveYou.dir
-
-build CMakeFiles/LoveYou.dir/LoveYou.cpp.obj: CXX_COMPILER__LoveYou_Debug C$:/Users/yorky/Desktop/STUDY/C++/LoveYou.cpp || cmake_object_order_depends_target_LoveYou
-  DEP_FILE = CMakeFiles\LoveYou.dir\LoveYou.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\LoveYou.dir
-  OBJECT_FILE_DIR = CMakeFiles\LoveYou.dir
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target LoveYou
-
-
-#############################################
-# Link the executable LoveYou.exe
-
-build LoveYou.exe: CXX_EXECUTABLE_LINKER__LoveYou_Debug CMakeFiles/LoveYou.dir/LoveYou.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\LoveYou.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = LoveYou.exe
-  TARGET_IMPLIB = libLoveYou.dll.a
-  TARGET_PDB = LoveYou.exe.dbg
 
 
 #############################################
@@ -132,8 +99,6 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build LoveYou: phony LoveYou.exe
-
 build untitled: phony untitled.exe
 
 # =============================================================================
@@ -144,7 +109,7 @@ build untitled: phony untitled.exe
 #############################################
 # Folder: C:/Users/yorky/Desktop/STUDY/C++/cmake-build-debug
 
-build all: phony untitled.exe LoveYou.exe
+build all: phony untitled.exe
 
 # =============================================================================
 # Built-in targets

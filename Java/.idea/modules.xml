@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-learning/java-learning.iml" filepath="$PROJECT_DIR$/java-learning/java-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven01/maven01.iml" filepath="$PROJECT_DIR$/maven01/maven01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven02/maven02.iml" filepath="$PROJECT_DIR$/maven02/maven02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi-admin/ruoyi-admin.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi-admin/ruoyi-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi-common/ruoyi-common.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi-common/ruoyi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi-framework/ruoyi-framework.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi-framework/ruoyi-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi-generator/ruoyi-generator.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi-generator/ruoyi-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi-quartz/ruoyi-quartz.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi-quartz/ruoyi-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-Vue/ruoyi-system/ruoyi-system.iml" filepath="$PROJECT_DIR$/RuoYi-Vue/ruoyi-system/ruoyi-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot01/springboot01.iml" filepath="$PROJECT_DIR$/springboot01/springboot01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootswagger/springbootswagger.iml" filepath="$PROJECT_DIR$/springbootswagger/springbootswagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm02/ssm02.iml" filepath="$PROJECT_DIR$/ssm02/ssm02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm03/ssm03.iml" filepath="$PROJECT_DIR$/ssm03/ssm03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm04/ssm04.iml" filepath="$PROJECT_DIR$/ssm04/ssm04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm06/ssm06.iml" filepath="$PROJECT_DIR$/ssm06/ssm06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm07/ssm07.iml" filepath="$PROJECT_DIR$/ssm07/ssm07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm08/ssm08.iml" filepath="$PROJECT_DIR$/ssm08/ssm08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm05/ssm15_springmvc.iml" filepath="$PROJECT_DIR$/ssm05/ssm15_springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testspringboot/testspringboot.iml" filepath="$PROJECT_DIR$/testspringboot/testspringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomi-shopping/xiaomi-shopping.iml" filepath="$PROJECT_DIR$/xiaomi-shopping/xiaomi-shopping.iml" />
+    </modules>
+  </component>
+</project>
