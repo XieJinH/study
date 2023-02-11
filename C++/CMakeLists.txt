@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(untitled
         #        TopologicalSort.cpp
-        #        ArrayReverse.cpp
+        #                ArrayReverse.cpp
         #        ArrayOutput.cpp
         #        LongestIncreasingSubsequence.cpp
         #        LinkedListItem.cpp
@@ -19,4 +19,6 @@ add_executable(untitled
         #        QuickSort.cpp
         #        MergeSort.cpp
         #        ChainCardinalitySort.cpp
-        ScoreSort.cpp)
+        #        ScoreSort.cpp
+        #        MergeOrderedArray.cpp
+        Tree'sOutput2.cpp)
