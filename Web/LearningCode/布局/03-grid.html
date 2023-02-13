@@ -5,14 +5,14 @@
   <title>Title</title>
   <style>
     .container-grid {
-      width: 600px;
-      height: 500px;
+      width: 1000px;
+      height: 1000px;
       background-color: aliceblue;
       display: grid;
       /*grid-template-columns: 200px 200px 200px;*/
       /*grid-template-rows: 100px 100px 100px 100px 100px;*/
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: repeat(5, 1fr);
+      grid-template-columns: repeat(20, auto);
+      grid-template-rows: repeat(20, auto);
       gap: 10px;
       justify-items: center;
     }
@@ -27,11 +27,6 @@
 </head>
 <body>
 <div class="container-grid">
-  <div class="dot"></div>
-  <div class="dot"></div>
-  <div class="dot"></div>
-  <div class="dot"></div>
-  <div class="dot"></div>
 </div>
 </body>
 </html>
