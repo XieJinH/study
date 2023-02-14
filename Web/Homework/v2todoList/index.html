@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>v2 todoList</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    #app {
+      width: 500px;
+      margin: 100px auto;
+    }
+  </style>
+
+</head>
+<body>
+<div id="app">
+</div>
+<script src="./vue.js"></script>
+<script>
+  //  实现一个 vue2 版本的 todoList 详情看01.png 02.png
+  //  样式可自行修改
+  //  请添加不少于10条注释
+
+  //  1. 实现添加功能
+  //  2. 实现删除功能
+  //  3. 实现全选功能
+  //  4. 实现反选功能
+
+  var vm = new Vue({
+    el: '#app',
+    data: {
+      inputData: '',
+      todos: [
+        {id: 1, title: '吃饭', completed: false},
+        {id: 2, title: '睡觉', completed: false},
+        {id: 3, title: '打豆豆', completed: false},
+      ]
+    },
+    methods: {
+      addTodo() {
+
+      },
+      deleteTodo() {
+
+      },
+      selectAll() {
+
+      },
+      selectReverse() {
+
+      }
+    },
+  })
+</script>
+
+</body>
+</html>
