@@ -16,11 +16,40 @@
       width: 500px;
       margin: 100px auto;
     }
+
+    h1 {
+      text-align: center;
+    }
+
+    input {
+      width: 360px;
+      height: 34px;
+      padding-left: 5px;
+
+      font-size: 20px;
+    }
+
+    button {
+      width: 125px;
+      height: 38px;
+    }
   </style>
 
 </head>
 <body>
 <div id="app">
+  <div class="container-header">
+    <h1>v2 todoList</h1>
+  </div>
+
+  <div class="container-body">
+    <input type="text" value="请输入内容"></input>
+    <button>提交</button>
+  </div>
+
+  <div class="container-tail">
+
+  </div>
 </div>
 <script src="./vue.js"></script>
 <script>
