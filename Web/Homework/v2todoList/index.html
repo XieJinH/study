@@ -51,7 +51,12 @@
   </div>
 
   <div class="container-body">
-
+    <input id="study" type="checkbox" v-model="checkbox" value="study">
+    <label for="study">学习</label>
+    <input id="sleep" type="checkbox" v-model="checkbox" value="sleep">
+    <label for="sleep">睡觉</label>
+    <input id="eat" type="checkbox" v-model="checkbox" value="eat">
+    <label for="eat">干饭</label>
   </div>
 
   <div class="container-tail">
@@ -73,6 +78,7 @@
     el: '#app',
     data: {
       inputModel: '',
+      checkbox: [],
       inputData: '',
       todos: [
         {id: 1, title: '吃饭', completed: false},
