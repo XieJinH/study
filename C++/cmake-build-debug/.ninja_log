@@ -1,0 +1,12 @@
+# ninja log v5
+1	134	6990789206179890	build.ninja	d18554643d746ab2
+2	327	6990789135014377	CMakeFiles/test.dir/Leet_Code_Questions/TwoNumbersSum.cpp.obj	8668e49cd9556022
+342	469	6990394713093908	test.exe	cacf77273923db8f
+5	328	6990789135014377	CMakeFiles/test.dir/Learning_Code/DecimalToBinary.cpp.obj	deef7583c236c6c5
+2	70	6990789299459421	test.exe	ba27f0a285c298c2
+3	256	6990793266862067	CMakeFiles/test.dir/Learning_Code/DecimalToBinary.cpp.obj	deef7583c236c6c5
+256	332	6990793267585790	test.exe	ba27f0a285c298c2
+2	270	6990794497249713	CMakeFiles/test.dir/Learning_Code/DecimalToBinary.cpp.obj	deef7583c236c6c5
+270	343	6990794497957071	test.exe	ba27f0a285c298c2
+2	256	6990794721328769	CMakeFiles/test.dir/Learning_Code/DecimalToBinary.cpp.obj	deef7583c236c6c5
+257	320	6990794721936736	test.exe	ba27f0a285c298c2
