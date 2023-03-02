@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Practice/student-manager-vue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Project" vcs="Git" />
   </component>
 </project>
