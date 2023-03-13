@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Mar 02 19:28:06 CST 2023
-mybatis-spring-2.0.7.pom>public=
-mybatis-spring-2.0.7.jar>public=
+#Fri Mar 10 21:32:49 CST 2023
 mybatis-spring-2.0.7-sources.jar>public=
+mybatis-spring-2.0.7.jar>central=
+mybatis-spring-2.0.7.jar>public=
+mybatis-spring-2.0.7.pom>central=
+mybatis-spring-2.0.7.pom>public=
